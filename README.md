@@ -32,19 +32,15 @@
 
 ```bash
 $ npm install
+
 ```
 
 ## Running the app
 
 ```bash
-# development
-$ npm run start
+Run  ./environments.sh from git bash or linux bash.
+The Postgres database is hosted by Heroku. 
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
 ## Test
